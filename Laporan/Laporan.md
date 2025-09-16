@@ -5,7 +5,14 @@
 website ini mempermudah dosen membuat kuis dengan berbagai jenis soal, sedangkan mahasiswa dapat melaksanakan kuis dengan online dan ada batasan waktu, penilaian secara instan, serta riwayat nilai.  
 
 ---
+## Team Develoment:
 
+>**Muhammad Ridha Rezeki** (Leader) 
+
+>**Nikmal Wakil Aizza** (Anggota)
+  
+>**Zakiatunnisa** (Anggota)
+---
 ## Latar Belakang
  Didalam proses belajar di kampus, penilaian pembelajaran sering dilakukan melalui kuis dan ujian.  
 Metode manual dengan kertas memiliki beberapa kelemahan antara lain :
@@ -66,3 +73,5 @@ dinilai manual.
 - **Dashboard Nilai**: dosen dapat melihat rekap nilai peserta kuis.  
 
 ---
+
+
