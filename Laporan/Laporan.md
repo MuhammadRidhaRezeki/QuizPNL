@@ -5,12 +5,12 @@
 website ini mempermudah dosen membuat kuis dengan berbagai jenis soal, sedangkan mahasiswa dapat melaksanakan kuis dengan online dan ada batasan waktu, penilaian secara instan, serta riwayat nilai.  
 
 ---
-## Team Develoment:
+## Team Development:
 
 >**Muhammad Ridha Rezeki** (Leader) 
 
 >**Nikmal Wakil Aizza** (Anggota)
-  
+
 >**Zakiatunnisa** (Anggota)
 ---
 ## Latar Belakang
